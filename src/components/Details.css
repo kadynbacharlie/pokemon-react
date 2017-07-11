@@ -1,0 +1,16 @@
+.Details {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Details .content-row {
+  display: flex;
+  padding-top: 20px;
+}
+.Details h1#pokemon-title {
+  margin-top: 0;
+}
+.Details label#bread-crumb {
+}
+

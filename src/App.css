@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+.App header {
+  padding: 20px;
+  box-shadow: 0 -20px 21px 24px rgba(85,85,85,0.5);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background: white;
+  opacity: 0.9;
+}
+.App footer {
+  width: 100%;
+  padding: 1px 20px;
+  box-shadow: 0 20px 21px 24px rgba(85,85,85,0.5);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  background: white;
+  opacity: 0.9;
+}
+.main-content {
+  margin-top: 140px;
+  margin-bottom: 60px;
+}

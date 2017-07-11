@@ -1,0 +1,160 @@
+{
+  "stacks": [
+    [
+      {
+        "statePath": "/details/bulbasaur",
+        "number": 1,
+        "img": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png",
+        "title": "Bulbasaur"
+      },
+      {
+        "statePath": "/details/ivysaur",
+        "number": 2,
+        "img": "https://cdn.bulbagarden.net/upload/7/73/002Ivysaur.png",
+        "title": "Ivysaur"
+      },
+      {
+        "statePath": "/details/venusaur",
+        "number": 3,
+        "img": "https://cdn.bulbagarden.net/upload/a/ae/003Venusaur.png",
+        "title": "Venusaur"
+      },
+      {
+        "statePath": "/details/mvenusaur",
+        "number": 4,
+        "img": "https://cdn.bulbagarden.net/upload/7/73/003Venusaur-Mega.png",
+        "title": "Mega Venusaur X"
+      }
+    ],
+    [
+      {
+        "statePath": "/details/charmander",
+        "number": 1,
+        "img": "https://cdn.bulbagarden.net/upload/7/73/004Charmander.png",
+        "title": "Charmander"
+      },
+      {
+        "statePath": "/details/charmeleon",
+        "number": 2,
+        "img": "https://cdn.bulbagarden.net/upload/4/4a/005Charmeleon.png",
+        "title": "Charmeleon"
+      },
+      {
+        "statePath": "/details/charizard",
+        "number": 3,
+        "img": "https://cdn.bulbagarden.net/upload/7/7e/006Charizard.png",
+        "title": "Charizard"
+      },
+      {
+        "statePath": "/details/mcharizardx",
+        "number": 4,
+        "img": "https://cdn.bulbagarden.net/upload/3/36/006Charizard-Mega_X.png",
+        "title": "Mega Charizard X"
+      },
+      {
+        "statePath": "/details/mcharizardy",
+        "number": 5,
+        "img": "https://cdn.bulbagarden.net/upload/f/fd/006Charizard-Mega_Y.png",
+        "title": "Mega Charizard Y"
+      }
+    ],
+    [
+      {
+        "statePath": "/details/squirtle",
+        "number": 1,
+        "img": "https://cdn.bulbagarden.net/upload/3/39/007Squirtle.png",
+        "title": "Squirtle"
+      },
+      {
+        "statePath": "/details/wartortle",
+        "number": 2,
+        "img": "https://cdn.bulbagarden.net/upload/0/0c/008Wartortle.png",
+        "title": "Wartortle"
+      },
+      {
+        "statePath": "/details/blastoise",
+        "number": 3,
+        "img": "https://cdn.bulbagarden.net/upload/0/02/009Blastoise.png",
+        "title": "Blastoise"
+      },
+      {
+        "statePath": "/details/mblastoise",
+        "number": 4,
+        "img": "https://cdn.bulbagarden.net/upload/8/85/009Blastoise-Mega.png",
+        "title": "Mega Blastoise"
+      }
+    ],
+    [
+      {
+        "statePath": "/details/caterpie",
+        "number": 1,
+        "img": "https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png",
+        "title": "Caterpie"
+      },
+      {
+        "statePath": "/details/metapod",
+        "number": 2,
+        "img": "https://cdn.bulbagarden.net/upload/c/cd/011Metapod.png",
+        "title": "Metapod"
+      },
+      {
+        "statePath": "/details/butterfree",
+        "number": 3,
+        "img": "https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png",
+        "title": "Butterfree"
+      }
+    ],
+    [
+      {
+        "statePath": "/details/weedle",
+        "number": 1,
+        "img": "https://cdn.bulbagarden.net/upload/d/df/013Weedle.png",
+        "title": "Weedle"
+      },
+      {
+        "statePath": "/details/kakuna",
+        "number": 2,
+        "img": "https://cdn.bulbagarden.net/upload/f/f0/014Kakuna.png",
+        "title": "Kakuna"
+      },
+      {
+        "statePath": "/details/beedrill",
+        "number": 3,
+        "img": "https://cdn.bulbagarden.net/upload/6/61/015Beedrill.png",
+        "title": "Beedrill"
+      },
+      {
+        "statePath": "/details/mbeedrill",
+        "number": 4,
+        "img": "https://cdn.bulbagarden.net/upload/7/76/015Beedrill-Mega.png",
+        "title": "Mega Beedrill"
+      }
+    ],
+    [
+      {
+        "statePath": "/details/pidgey",
+        "number": 1,
+        "img": "https://cdn.bulbagarden.net/upload/5/55/016Pidgey.png",
+        "title": "Pidgey"
+      },
+      {
+        "statePath": "/details/pidgeotto",
+        "number": 2,
+        "img": "https://cdn.bulbagarden.net/upload/7/7a/017Pidgeotto.png",
+        "title": "Pidgeotto"
+      },
+      {
+        "statePath": "/details/pidgeot",
+        "number": 3,
+        "img": "https://cdn.bulbagarden.net/upload/5/57/018Pidgeot.png",
+        "title": "Pidgeot"
+      },
+      {
+        "statePath": "/details/mpidgeot",
+        "number": 4,
+        "img": "https://cdn.bulbagarden.net/upload/7/71/018Pidgeot-Mega.png",
+        "title": "Mega Pidgeot"
+      }
+    ]
+  ]
+}
